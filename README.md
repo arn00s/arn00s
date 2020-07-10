@@ -1,4 +1,4 @@
-![](http://johnjohnston.info/oddsandends/ds106gif)
+![](https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif)
 
 <!--
 **arn00s/arn00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
