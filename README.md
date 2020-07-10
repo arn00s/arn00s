@@ -1,4 +1,4 @@
-### Hi there 👋
+![](http://johnjohnston.info/oddsandends/ds106gif)
 
 <!--
 **arn00s/arn00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
